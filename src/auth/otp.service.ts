@@ -15,8 +15,8 @@ export class OtpService {
       // secure: false,
       service:'gmail',
       auth: {
-        user: 'luffyxkingofpirates@gmail.com', 
-        pass: 'xucy nbzc pfjr grll',
+        user: 'your gmail', 
+        pass: 'your app password',
       },
     });
 
